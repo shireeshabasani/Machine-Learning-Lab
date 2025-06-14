@@ -1,5 +1,1 @@
-# Machine-Learning-Lab
-
-# Basani Shireesha
-# B200286
-# C4
+# Machine-Learning-Lab   Basani Shireesha  B200286  C4
